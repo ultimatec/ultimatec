@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649076198 source:c:\users\dell user\documents\basic calculator six operation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
