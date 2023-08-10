@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ultimatec
-- 👀 I’m interested in learning programming at a fast pace with a very high sense of dedication.
-- 🌱 I’m currently learning c programming language.
-- 💞️ I’m looking to collaborate on mini projects using c language.
-- - 📫 you can reach me through my mail dansabe158@gmail.com 
-thank you!!! i love coding. 
+🐍 Python Enthusiast!!
+Welcome to my coding realm! I'm Abubakar Danasabe, a Python aficionado on a mission to turn caffeine into clean, elegant code. From automating tasks to building web applications, I thrive on transforming ideas into functional and efficient solutions. 
+
+
